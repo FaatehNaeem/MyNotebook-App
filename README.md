@@ -34,58 +34,51 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone https://github.com/your-username/Mynotebook.git
 
-<ol>
 
-<li> Change into the project directory: </li>
+
+### Change into the project directory:
 cd Mynotebook
 
-<li>Install the project dependencies:</li>
+### Install the project dependencies
 npm install
 
-<li>Create a .env file in the root directory and set the following environment variables:</li>
+### Create a .env file in the root directory and set the following environment variables:
 MONGODB_URI=your-mongodb-connection-string
 JWT_SECRET=your-jwt-secret-key
 
-<li>Install the project dependencies:</li>
+### Install the project dependencies:
 npm start
 
-</ol>
 
- ## Usage
 
-<ol>
+#  Usage
 
-<li> Open your web browser and navigate to http://localhost:3000 to access the application.</li>
 
-<li> If you haven't already registered, click on the "Signup" link to create an account.</li>
+Open your web browser and navigate to http://localhost:3000 to access the application.
 
-<li> Login with your credentials to access your notes. </li>
+If you haven't already registered, click on the "Signup" link to create an account.
 
-<li> You can add, edit, or delete notes as needed. Tags can be used to categorize notes.</li>
+Login with your credentials to access your notes.
 
-</ol>
+You can add, edit, or delete notes as needed. Tags can be used to categorize notes.
 
- ## Contributing
+# Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+### Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-<ol>
+Fork the project.
 
-<li> Fork the project. </li>
-
-<li>Create a new branch for your feature:</li>
+### Create a new branch for your feature:
 
 git checkout -b feature/your-feature
 
-<li> Make your changes and commit them: </li>
+### Make your changes and commit them:
 git commit -m 'Add some feature'
 
-<li>Push to the branch:</li>
+### Push to the branch:
 git push origin feature/your-feature
 
 Create a new Pull Request, describing your changes and improvements.
-
-</ol>
 
 # Getting Started with Create React App
 
