@@ -36,7 +36,7 @@ git clone https://github.com/your-username/Mynotebook.git
 
 <ol>
 
-<li>Change into the project directory:</li>
+<li> Change into the project directory: </li>
 cd Mynotebook
 
 <li>Install the project dependencies:</li>
@@ -49,7 +49,7 @@ JWT_SECRET=your-jwt-secret-key
 <li>Install the project dependencies:</li>
 npm start
 
-<ol>
+</ol>
 
  ## Usage
 
